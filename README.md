@@ -15,7 +15,6 @@ I am a web developer with experience in creating websites, e-commerce platforms,
 
 ## 📂 My Recent Projects:  
 - [Fora Travel](https://www.foratravel.com/) — Created an intuitive website for travelers.  
-- [Finance Guide School](https://financeguideschool.com/investors-club) — Developed a website for an investment club, emphasizing community values.  
 - [Finance Guide Partners](https://financeguidepartners.com/) — Built a custom-coded website focusing on clarity and simplicity for partners.  
 
 ## 🚀 My Goals:  
